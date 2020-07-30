@@ -15,5 +15,3 @@ while (guess!=password):
     if(guess == list(password)):
         print("Your password is: "+ "".join(guess))
         break
-
-#this is just a test line for us
